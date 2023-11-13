@@ -4,6 +4,8 @@ $ git clone https://github.com/D0NS4ND1N9A/ArtDDos.git
 
 $ cd ArtDDos
 
+$ cd ArtDDos
+
 $ sudo bash install.sh
 
 $ sudo bash setup.sh
